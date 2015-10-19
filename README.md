@@ -15,9 +15,7 @@ Navigate to [http://localhost:3000/graphql](http://localhost:3000/graphql) to op
 
 On the left side, enter 
 ```json
-{
-    hello
-}
+{ hello }
 ```
 
 Press the play button.
