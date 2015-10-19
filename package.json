@@ -1,0 +1,14 @@
+{
+  "name": "graphql-nodejs-express-es6-boilerplate",
+  "version": "0.0.1",
+  "description": "The minimum code to get a GraphQL server running on NodeJS/Express using ES6.",
+  "main": "index.js",
+  "author": "James Trefry",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "express": "^4.13.3",
+    "express-graphql": "^0.4.0",
+    "graphql": "^0.4.7"
+  }
+}
